@@ -1114,33 +1114,6 @@
 
                                 },
 
-                                {
-
-                                    "elementType": "buttonContainer",
-
-                                    "buttons": [
-
-                                        {
-
-                                            "elementType": "linkButton",
-
-                                            "title": "Send to Program Email",
-
-                                            "link": {
-
-                                                "external": "mailto:internaltional@cypresscollege.edu"
-
-                                            },
-
-                                            "acessoryIcon": "drilldown"
-
-                                        }
-
-                                    ],
-
-                                    "accessoryIconPosition": "right"
-
-                                },
 
                                 {
 
@@ -1152,51 +1125,36 @@
 
                                 },
 
-                                {
-
-                                    "elementType": "buttonContainer",
-
-                                    "buttons": [
-
-                                        {
-
-                                            "elementType": "linkButton",
-
-                                            "title": "F2 Student International Student Application.pdf",
-
-                                            "link": {
-
-                                                "external": "http://news.cypresscollege.edu/Documents/ISP/Application-Form-Fill-In-F-2.pdf"
-
-                                            },
-
-                                            "acessoryIcon": "drilldown"
-
-                                        },
-
-                                        {
-
-                                            "elementType": "linkButton",
-
-                                            "title": "F2 Student Verification form.pdf",
-
-                                            "link": {
-
-                                                "external": "https://pdfs-584357938475934.s3.us-east-2.amazonaws.com/CalendarTextVersion09-24-15+(1).pdf"
-
-                                            },
-
-                                            "acessoryIcon": "drilldown"
-
-                                        }
-
-                                    ],
-
-                                    "accessoryIconPosition": "right"
-
-                                }
-
-                            ]
+{
+            "elementType": "buttonContainer",
+            "buttons": [
+                {
+                    "elementType": "linkButton",
+                    "title": "F2 Student International Student Application.pdf",
+                    "link": {
+                        "external": "http://news.cypresscollege.edu/Documents/ISP/Application-Form-Fill-In-F-2.pdf"
+                    },
+                    "acessoryIcon": "drilldown"
+                },
+                {
+                    "elementType": "linkButton",
+                    "title": "F2 Student Verification form.pdf",
+                    "link": {
+                        "external": "https://pdfs-584357938475934.s3.us-east-2.amazonaws.com/CalendarTextVersion09-24-15+(1).pdf"
+                    },
+                    "acessoryIcon": "drilldown"
+                },
+                {
+                    "elementType": "linkButton",
+                    "title": "Send to Program Email",
+                    "link": {
+                        "external": "mailto:internaltional@cypresscollege.edu"
+                    },
+                    "acessoryIcon": "drilldown"
+                }
+            ],
+            "accessoryIconPosition": "right"
+        }                            ]
 
                         }
 
