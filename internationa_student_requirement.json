@@ -79,9 +79,9 @@
                                     },
                                     {
                                        "elementType":"linkButton",
-                                       "title":"Send to Program Email",
+                                       "title":"international@cypresscollege.edu",
                                        "link":{
-                                          "external":"mailto:internaltional@cypresscollege.edu"
+                                          "external":"mailto:international@cypresscollege.edu"
                                        },
                                        "acessoryIcon":"drilldown"
                                     }
