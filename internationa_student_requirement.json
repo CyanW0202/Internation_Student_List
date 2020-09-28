@@ -24,7 +24,7 @@
 
                             "elementType": "collapsible",
 
-                            "title": "Non-refundable fee",
+                            "title": "Non-Refundable fee",
 
                             "collapsed": true,
 
@@ -78,7 +78,7 @@
 
                             "elementType": "collapsible",
 
-                            "title": "Required Documents",
+                            "title": "Required documents",
 
                             "collapsed": true,
 
@@ -93,34 +93,6 @@
                                     "focal": true,
 
                                     "html": "<span>1. <strong>Official secondary education (high school) transcripts in English OR GED certification</strong> if applicable.<br>2. <strong>Official transcripts in English</strong> from any colleges/universities attended.<br>3. <strong>Bank Certification </strong>(must be less than 6 months old).<br>4. <strong>Copy of valid passport</strong> required for new students applying from overseas.</span>"
-
-                                },
-
-                                {
-
-                                    "elementType": "buttonContainer",
-
-                                    "buttons": [
-
-                                        {
-
-                                            "elementType": "linkButton",
-
-                                            "title": "Send to Program Email",
-
-                                            "link": {
-
-                                                "external": "mailto:internaltional@cypresscollege.edu"
-
-                                            },
-
-                                            "acessoryIcon": "drilldown"
-
-                                        }
-
-                                    ],
-
-                                    "accessoryIconPosition": "right"
 
                                 }
 
@@ -186,7 +158,15 @@
 
                                             "acessoryIcon": "drilldown"
 
-                                        }
+                                        },
+                {
+                    "elementType": "linkButton",
+                    "title": "Send to Program Email",
+                    "link": {
+                        "external": "mailto:internaltional@cypresscollege.edu"
+                    },
+                    "acessoryIcon": "drilldown"
+                }
 
                                     ],
 
