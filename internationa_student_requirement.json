@@ -137,13 +137,9 @@
                                     {
                                        "title":" >  Band 5"
                                     },
-                                      {
-                     "title":{
-                        "elementType":"html",
-                        "focal":true,
-                        "html":"<span>Submit a non-refundable application fee of <strong>$40.00. <br> Applications will be processed after the application fee has been paid</strong>. <br>Due to COVID -19, you can pay online.</span >"
-                     }
-                  }
+                                    {
+                                       "title":"--"
+                                    }
                                  ]
                               },
                               {
