@@ -58,7 +58,7 @@
                         {
                            "elementType":"html",
                            "focal":true,
-                           "html":"<span>Complete the <strong>PDF International Student Application</strong>.<br>Complete the Financial Support Statement (see page 3 of the application).<br>Applicants under 18 must also complete the Cypress College Consent to Treat Minor Patient form.<br>Handwritten applications will not be accepted. </span>"
+                           "html":"<span><strong>[Handwritten applications will not be accepted.]</strong><br>5. Complete the <strong>PDF International Student Application</strong>.<br>6. Complete the Financial Support Statement (see page 3 of the application).<br>7. Applicants under 18 must also complete the Cypress College Consent to Treat Minor Patient form. </span>"
                         },
                         {
                            "elementType":"buttonContainer",
@@ -252,7 +252,7 @@
                         {
                            "elementType":"html",
                            "focal":true,
-                           "html":"<span>1. <strong>Official secondary education (high school) transcripts in English OR GED certification</strong> if applicable.<br>2. <strong>Official transcripts in English</strong> from any colleges/universities attended.<br>3. <strong>Bank Certification </strong>(must be less than 6 months old).<br>4. <strong>Copy of valid passport</strong> required for new students applying from overseas.<br>5. <strong>Copy of I-20 Form</strong><br>6. <strong>Copy of Visa</strong><br>7.<strong> Copy of I-94<br>8. <strong>Copy of Passport<br></strong></span>"
+                           "html":"<span>1. <strong>Official secondary education (high school) transcripts in English OR GED certification</strong> if applicable.<br>2. <strong>Official transcripts in English</strong> from any colleges/universities attended.<br>3. <strong>Bank Certification </strong>(must be less than 6 months old).<br>4. <strong>Copy of valid passport</strong> required for new students applying from overseas.<br>5. <strong>Copy of I-20 Form</strong><br>6. <strong>Copy of Visa</strong><br>7.<strong> Copy of I-94<br></strong>8. <strong>Copy of Passport<br></strong></span>"
                         }
                      ]
                   },
