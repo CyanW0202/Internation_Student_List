@@ -137,36 +137,11 @@
                                     {
                                        "title":" >  Band 5"
                                     },
-                                     {
+                                      {
                      "title":{
-                        "elementType":"buttonContainer",
-                        "buttons":[
-                           {
-                              "elementType":"linkButton",
-                              "title":"International Student Application.pdf",
-                              "link":{
-                                 "external":"http://news.cypresscollege.edu/Documents/ISP/Application-Form-Fill-In.pdf"
-                              },
-                              "acessoryIcon":"drilldown"
-                           },
-                           {
-                              "elementType":"linkButton",
-                              "title":"Consent to Treat Minor Patient.pdf",
-                              "link":{
-                                 "external":"https://pdfs-584357938475934.s3.us-east-2.amazonaws.com/MinorForm+(1).pdf"
-                              },
-                              "acessoryIcon":"drilldown"
-                           },
-                           {
-                              "elementType":"linkButton",
-                              "title":"Send to Program Email",
-                              "link":{
-                                 "external":"mailto:internaltional@cypresscollege.edu"
-                              },
-                              "acessoryIcon":"drilldown"
-                           }
-                        ],
-                        "accessoryIconPosition":"right"
+                        "elementType":"html",
+                        "focal":true,
+                        "html":"<span>Submit a non-refundable application fee of <strong>$40.00. <br> Applications will be processed after the application fee has been paid</strong>. <br>Due to COVID -19, you can pay online.</span >"
                      }
                   }
                                  ]
