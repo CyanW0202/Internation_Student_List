@@ -51,7 +51,7 @@
                   },
                   {
                      "elementType":"collapsible",
-                     "title":"Complete the required form",
+                     "title":"Complete the required forms",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -94,7 +94,7 @@
                   },
                   {
                      "elementType":"collapsible",
-                     "title":"The English Standard Test",
+                     "title":"English Prorficiency Requirments",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -245,7 +245,7 @@
                   },
                   {
                      "elementType":"collapsible",
-                     "title":"Required Documents",
+                     "title":"Required documents",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -258,7 +258,7 @@
                   },
                   {
                      "elementType":"collapsible",
-                     "title":"Complete the required form",
+                     "title":"Complete the required forms",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -301,7 +301,7 @@
                   },
                   {
                      "elementType":"collapsible",
-                     "title":"The English Standard Test",
+                     "title":"English Prorficiency Requirments",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -457,7 +457,7 @@
                   },
                   {
                      "elementType":"collapsible",
-                     "title":"Required Documents",
+                     "title":"Required documents",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -529,7 +529,7 @@
                   },
                   {
                      "elementType":"collapsible",
-                     "title":"Required Documents",
+                     "title":"Required documents",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
