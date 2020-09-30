@@ -116,7 +116,9 @@
                               }
                            ],
                            "rows":[
-                              {
+                              { "link": {
+                        "external": "https://www.example.com"
+                    },
                                  "cells":[
                                     {
                                        "title":"TOEFL"
@@ -129,7 +131,9 @@
                                     }
                                  ]
                               },
-                              {
+                              { "link": {
+                        "external": "https://www.example.com"
+                    },
                                  "cells":[
                                     {
                                        "title":"IELTS"
@@ -142,7 +146,9 @@
                                     }
                                  ]
                               },
-                              {
+                              { "link": {
+                        "external": "https://www.example.com"
+                    },
                                  "cells":[
                                     {
                                        "title":"iTEP"
@@ -155,7 +161,9 @@
                                     }
                                  ]
                               },
-                              {
+                              { "link": {
+                        "external": "https://www.example.com"
+                    },
                                  "cells":[
                                     {
                                        "title":"PTE Acedemic"
@@ -168,7 +176,9 @@
                                     }
                                  ]
                               },
-                              {
+                              { "link": {
+                        "external": "https://www.example.com"
+                    },
                                  "cells":[
                                     {
                                        "title":"Duolingo English Class"
@@ -181,7 +191,9 @@
                                     }
                                  ]
                               },
-                              {
+                              { "link": {
+                        "external": "https://www.example.com"
+                    },
                                  "cells":[
                                     {
                                        "title":"Certificate of required<br>ESL Level completion"
@@ -194,7 +206,9 @@
                                     }
                                  ]
                               },
-                              {
+                              { "link": {
+                        "external": "https://www.example.com"
+                    },
                                  "cells":[
                                     {
                                        "title":"Previous College<br>-Level English Coursework"
