@@ -137,9 +137,38 @@
                                     {
                                        "title":" >  Band 5"
                                     },
-                                    {
-                                       "title":"--"
-                                    }
+                                     {
+                     "title":{
+                        "elementType":"buttonContainer",
+                        "buttons":[
+                           {
+                              "elementType":"linkButton",
+                              "title":"International Student Application.pdf",
+                              "link":{
+                                 "external":"http://news.cypresscollege.edu/Documents/ISP/Application-Form-Fill-In.pdf"
+                              },
+                              "acessoryIcon":"drilldown"
+                           },
+                           {
+                              "elementType":"linkButton",
+                              "title":"Consent to Treat Minor Patient.pdf",
+                              "link":{
+                                 "external":"https://pdfs-584357938475934.s3.us-east-2.amazonaws.com/MinorForm+(1).pdf"
+                              },
+                              "acessoryIcon":"drilldown"
+                           },
+                           {
+                              "elementType":"linkButton",
+                              "title":"Send to Program Email",
+                              "link":{
+                                 "external":"mailto:internaltional@cypresscollege.edu"
+                              },
+                              "acessoryIcon":"drilldown"
+                           }
+                        ],
+                        "accessoryIconPosition":"right"
+                     }
+                  }
                                  ]
                               },
                               {
