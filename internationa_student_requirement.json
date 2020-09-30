@@ -11,7 +11,7 @@
                "content":[
                   {
                      "elementType":"collapsible",
-                     "title":"Non-Refundable fee",
+                     "title":"Non-Refundable application fee",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -218,7 +218,7 @@
                "content":[
                   {
                      "elementType":"collapsible",
-                     "title":"Non-refundable fee",
+                     "title":"Non-Refundable application fee",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -430,7 +430,7 @@
                "content":[
                   {
                      "elementType":"collapsible",
-                     "title":"Non-refundable fee",
+                     "title":"Non-Refundable application fee",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
@@ -502,7 +502,7 @@
                "content":[
                   {
                      "elementType":"collapsible",
-                     "title":"Non-refundable fee",
+                     "title":"Non-Refundable application fee",
                      "collapsed":true,
                      "disclosureIcon":"chevron",
                      "content":[
