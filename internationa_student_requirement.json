@@ -81,7 +81,7 @@
                               },
                               {
                                  "elementType":"linkButton",
-                                 "title":"Send to Program Email",
+                                 "title":"Submit Documents Here",
                                  "link":{
                                     "external":"mailto:internaltional@cypresscollege.edu"
                                  },
@@ -303,7 +303,7 @@
                               },
                               {
                                  "elementType":"linkButton",
-                                 "title":"Send to Program Email",
+                                 "title":"Submit Documents Here",
                                  "link":{
                                     "external":"mailto:internaltional@cypresscollege.edu"
                                  },
@@ -514,7 +514,7 @@
                               },
                               {
                                  "elementType":"linkButton",
-                                 "title":"international@cypresscollege.edu",
+                                 "title":"Submit Documents Here",
                                  "link":{
                                     "external":"mailto:international@cypresscollege.edu"
                                  },
@@ -594,7 +594,7 @@
                               },
                               {
                                  "elementType":"linkButton",
-                                 "title":"international@cypresscollege.edu",
+                                 "title":"Submit Documents Here",
                                  "link":{
                                     "external":"mailto:international@cypresscollege.edu"
                                  },
